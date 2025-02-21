@@ -1,0 +1,29 @@
+sourceId: 34898c53-6fc9-4067-ae4b-292affd3d47d
+name: DIM_SUPPLIER
+locationId: 306d9b28-186f-414a-bdb3-7833bb1634be
+description: ''
+columns:
+  - name: SUPPLIERID
+    dataType: number(38,0)
+    id: 660a3505-901f-4f01-9f54-70d1b8fd8769
+    allowNulls: false
+    defaultValue: ''
+    description: ''
+    useQuotes: false
+    identity: false
+  - name: COMPANYNAME
+    dataType: varchar(16777216)
+    id: 5f247561-8d35-441a-abf3-565540bc5c4d
+    allowNulls: false
+    defaultValue: ''
+    description: ''
+    useQuotes: false
+    identity: false
+  - name: PHONE
+    dataType: varchar(16777216)
+    id: d981df9e-ffdf-4ea7-95df-991aad3ad0e5
+    allowNulls: true
+    defaultValue: ''
+    description: ''
+    useQuotes: false
+    identity: false
